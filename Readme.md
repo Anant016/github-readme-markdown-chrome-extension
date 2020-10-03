@@ -8,9 +8,6 @@ I've uploaded a chrome extension specially for Github users to easily write thei
 
 [<img src="./demo.png"/>](https://www.youtube.com/watch?v=tNZjZklPdIg)
 
-### This is Liscensed. Before copying code, please read the Liscence.<br><br>
-
-Vist [anant-dev.web.app/](https://anant-dev.web.app)
 <br>
 <br>
 [![alt text](./bmc.png)](https://www.buymeacoffee.com/anu)

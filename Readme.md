@@ -17,7 +17,7 @@ I've uploaded a chrome extension specially for Github users to easily write thei
 
 :smiley:
 Or
-# Get it directly from [chrome web Store](https://chrome.google.com/webstore/detail/github-readme-markdown/paacehodnnofnmhogoclomamladkpabg?hl=en&authuser=0)
+### Get it directly from [chrome web Store](https://chrome.google.com/webstore/detail/github-readme-markdown/paacehodnnofnmhogoclomamladkpabg?hl=en&authuser=0)
 
 [Create your own chrome extension — and deploy to Chrome Web Store](https://medium.com/coolanant999/create-your-own-chrome-extension-and-deploy-to-chrome-web-store-66685bc18b8)
 

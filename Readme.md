@@ -6,7 +6,7 @@ I've uploaded a chrome extension specially for Github users to easily write thei
 
 # Get it directly from [chrome web Store](https://chrome.google.com/webstore/detail/github-readme-markdown/paacehodnnofnmhogoclomamladkpabg?hl=en&authuser=0)
 
-[<img src="./demo.png" height ="100px"/>](https://www.youtube.com/watch?v=tNZjZklPdIg)
+[<img src="./demo.png" height ="450px"/>](https://www.youtube.com/watch?v=tNZjZklPdIg)
 
 <br>
 

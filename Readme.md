@@ -6,7 +6,7 @@ I've uploaded a chrome extension specially for Github users to easily write thei
 
 # Get it directly from [chrome web Store](https://chrome.google.com/webstore/detail/github-readme-markdown/paacehodnnofnmhogoclomamladkpabg?hl=en&authuser=0)
 
-[<img src="./demo.png"/>](https://www.youtube.com/watch?v=tNZjZklPdIg)
+[<img src="./demo.png" height ="100px"/>](https://www.youtube.com/watch?v=tNZjZklPdIg)
 
 <br>
 
@@ -17,6 +17,7 @@ OR
 1. Open chrome://extensions/ in chrome browser.
 2. Drag-and-drop the .crx file on the above page in Google-Chrome.
 
+## Medium Article
 [Create your own chrome extension — and deploy to Chrome Web Store](https://medium.com/coolanant999/create-your-own-chrome-extension-and-deploy-to-chrome-web-store-66685bc18b8)
 
 

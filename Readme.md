@@ -1,10 +1,9 @@
-:smiley:
 # Github Readme Markdown
-### at an instant
+### at an instant :smiley:
 
 I've uploaded a chrome extension specially for Github users to easily write their most important part - "The Documentation", very easily, without searching for markdown at other pages.
 
-# Get it directly from [chrome web Store](https://chrome.google.com/webstore/detail/github-readme-markdown/paacehodnnofnmhogoclomamladkpabg?hl=en&authuser=0)
+### Get it directly from [chrome web Store](https://chrome.google.com/webstore/detail/github-readme-markdown/paacehodnnofnmhogoclomamladkpabg?hl=en&authuser=0)
 
 [<img src="./demo.png" height ="450px"/>](https://www.youtube.com/watch?v=tNZjZklPdIg)
 

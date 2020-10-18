@@ -9,11 +9,6 @@ I've uploaded a chrome extension specially for Github users to easily write thei
 [<img src="./demo.png"/>](https://www.youtube.com/watch?v=tNZjZklPdIg)
 
 <br>
-<br>
-[![alt text](./bmc.png)](https://www.buymeacoffee.com/anu)
-
-
-## or [Paypal.me](https://www.paypal.me/ARungta)
 
 # How to Install
 
@@ -25,3 +20,6 @@ Or
 # Get it directly from [chrome web Store](https://chrome.google.com/webstore/detail/github-readme-markdown/paacehodnnofnmhogoclomamladkpabg?hl=en&authuser=0)
 
 [Create your own chrome extension — and deploy to Chrome Web Store](https://medium.com/coolanant999/create-your-own-chrome-extension-and-deploy-to-chrome-web-store-66685bc18b8)
+
+<a href="https://www.buymeacoffee.com/anant016" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" height= "60px" width="217px" ></a>
+### or [Paypal.me](https://www.paypal.me/ARungta)
